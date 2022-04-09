@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "jsonexport": "^2.2.0",
-    "moment": "^2.22.2"
+    "moment": "^2.29.2"
   }
 }
